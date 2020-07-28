@@ -31,3 +31,4 @@ dependencies:
         - docker>=^4.2
         - httpx>=^0.13.3
         - asgi-lifespan>=^1.0.1
+        - debugpy>=1.0.0b9
