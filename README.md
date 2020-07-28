@@ -23,6 +23,11 @@ To run the web application in debug use::
     conda activate fastapi-realworld-ex
     ./run.sh
 
+To debug via VSCode
+
+    conda activate fastapi-realworld-ex
+    DEBUG=1 ./run.sh
+
 
 Run tests
 ---------
